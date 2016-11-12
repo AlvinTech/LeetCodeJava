@@ -1,5 +1,7 @@
-target
-bin
+out
+.idea
+.idea/*
+.gitignore
 .DS_Store
 # Eclipse output and metadata (users should run `gradle eclipse` to generate)
 .classpath
@@ -10,6 +12,7 @@ jacoco.exec
 *.iml
 *.ipr
 *.iws
-.idea/*
+
 rebel-remote.xml
 rebel.xml
+/.idea/vcs.xml
