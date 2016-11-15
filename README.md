@@ -7,4 +7,4 @@ Email: 356485194@qq.com  OR  pengli@aerohive.com
 2. _index_447_   Number of Boomerangs       _2016-11-12_  
 3. _index_412_   Fizz Buzz       _2016-11-14_  
 4. _index_419_   Battleships in a Board  _2016-11-15_
-5. _index_413_   Arithmetic Slices  _2016-11-15_  
+5. _index_413_   Arithmetic Slices   _2016-11-15_  
