@@ -11,4 +11,6 @@ Email: 356485194@qq.com  OR  pengli@aerohive.com
 6. _index_289_   Find the Difference   _2016-11-16_  
 7. _index_199_   Binary Tree Right Side View   _2016-11-17_  
 8. _index_206_   Reverse Linked List   _2016-11-17_  
+9. _index_299_	 Bulls and Cows     _2016-11-19_  
+10. _index_396_  Rotate Function   _2016-11-19_  
 
