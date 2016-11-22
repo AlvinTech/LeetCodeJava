@@ -8,11 +8,16 @@ Email: 356485194@qq.com  OR  pengli@aerohive.com
 3.    _index_412_     Fizz Buzz                                     _2016-11-14_  
 4.    _index_419_     Battleships in a Board                        _2016-11-15_
 5.    _index_413_     Arithmetic Slices                             _2016-11-15_  
-6.    _index_289_     Find the Difference                           _2016-11-16_  
-7.    _index_199_     Binary Tree Right Side View                   _2016-11-17_  
-8.    _index_206_     Reverse Linked List                           _2016-11-17_  
-9.    _index_299_	  Bulls and Cows                                _2016-11-19_  
-10.   _index_396_     Rotate Function                               _2016-11-19_  
-11.   _index_463_     Island Perimeter                              _2016-11-20_  
-12.   _index_387_     First Unique Character in a String            _2016-11-21_  
+6.    _index_289_     Find the Difference                                                _2016-11-16_  
+7.    _index_199_     Binary Tree Right Side View                                        _2016-11-17_  
+8.    _index_206_     Reverse Linked List                                                _2016-11-17_  
+9.    _index_299_	  Bulls and Cows                                                     _2016-11-19_  
+10.   _index_396_     Rotate Function                                                    _2016-11-19_  
+11.   _index_463_     Island Perimeter                                                   _2016-11-20_  
+12.   _index_387_     First Unique Character in a String                                 _2016-11-21_  
+13.   _index_395_     Longest Substring with At Least K Repeating Characters             _2016-11-22_  
 
+header 1 | header 2
+---|---
+row 1 col 1 | row 1 col 2
+row 2 col 1 | row 2 col 2
