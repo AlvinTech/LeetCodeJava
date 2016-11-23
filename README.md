@@ -17,7 +17,7 @@ Email: 356485194@qq.com  OR  pengli@aerohive.com
 12.   _index_387_     First Unique Character in a String                                 _2016-11-21_  
 13.   _index_395_     Longest Substring with At Least K Repeating Characters             _2016-11-22_  
 
-id  | index |title | time
+Index  | ID |Title | Time
 ---|---|---|---
 1      | 453 | Minimum Moves to Equal Array Elements                                     | 2016-11-12
 2      | 447 | Number of Boomerangs                                                      | 2016-11-12
