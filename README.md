@@ -33,3 +33,4 @@ Index  | ID |Title | Time
 12     | 287 | First Unique Character in a String                                        | 2016-11-21
 13     | 395 | Longest Substring with At Least K Repeating Characters                    | 2016-11-22
 14     | 204 | Count Primes                                                              | 2016-11-23
+15     | 394 | Decode String                                                             | 2016-11-23
