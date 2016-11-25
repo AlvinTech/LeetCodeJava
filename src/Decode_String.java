@@ -64,6 +64,4 @@ public class Decode_String {
         String s ="2[abc]3[cd]ef";
         System.out.println(new Decode_String().decodeString(s));
     }
-    abcabccdcdcdef
-    abcabccdcdcdef
 }

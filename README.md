@@ -34,3 +34,4 @@ Index  | ID |Title | Time
 13     | 395 | Longest Substring with At Least K Repeating Characters                    | 2016-11-22
 14     | 204 | Count Primes                                                              | 2016-11-23
 15     | 394 | Decode String                                                             | 2016-11-23
+16     | 322 | Coin Change                                                               | 2016-11-24
