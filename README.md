@@ -35,3 +35,5 @@ Index  | ID |Title | Time
 14     | 204 | Count Primes                                                              | 2016-11-23
 15     | 394 | Decode String                                                             | 2016-11-23
 16     | 322 | Coin Change                                                               | 2016-11-24
+17     | 455 | Assign Cookies                                                            | 2016-11-25
+18     | 290 | Word Pattern                                                              | 2016-11-25
