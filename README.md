@@ -37,3 +37,5 @@ Index  | ID |Title | Time
 16     | 322 | Coin Change                                                               | 2016-11-24
 17     | 455 | Assign Cookies                                                            | 2016-11-25
 18     | 290 | Word Pattern                                                              | 2016-11-25
+19     | 169 | Majority Element                                                          | 2016-11-26
+20     | 223 | Rectangle Area                                                            | 2016-11-26
