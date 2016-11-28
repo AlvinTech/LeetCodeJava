@@ -39,3 +39,4 @@ Index  | ID |Title | Time
 18     | 290 | Word Pattern                                                              | 2016-11-25
 19     | 169 | Majority Element                                                          | 2016-11-26
 20     | 223 | Rectangle Area                                                            | 2016-11-26
+21     | 190 | Reverse Bits                                                              | 2016-11-28
