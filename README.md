@@ -29,3 +29,4 @@ Index  | ID |Title | Time
 21     | 190 | Reverse Bits                                                              | 2016-11-28
 22     | 164 | Maximum Gap                                                               | 2016-11-29
 23     | 307 | Range Sum Query - Mutable                                                 | 2016-11-30
+24     | 160 | Intersection of Two Linked List                                           | 2016-12-1
