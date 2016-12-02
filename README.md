@@ -30,3 +30,5 @@ Index  | ID |Title | Time
 22     | 164 | Maximum Gap                                                               | 2016-11-29
 23     | 307 | Range Sum Query - Mutable                                                 | 2016-11-30
 24     | 160 | Intersection of Two Linked List                                           | 2016-12-1
+25     | 349 | Intersection of Two Arrays                                                | 2016-12-1
+26     | 350 | Intersection of Two Arrays II                                             | 2016-12-1
