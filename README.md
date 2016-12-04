@@ -32,3 +32,4 @@ Index  | ID |Title | Time
 24     | 160 | Intersection of Two Linked List                                           | 2016-12-1
 25     | 349 | Intersection of Two Arrays                                                | 2016-12-1
 26     | 350 | Intersection of Two Arrays II                                             | 2016-12-1
+27     | 167 | Two Sum II - Input array is sorted                                        | 2016-12-4
