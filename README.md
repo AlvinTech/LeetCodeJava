@@ -33,3 +33,4 @@ Index  | ID |Title | Time
 25     | 349 | Intersection of Two Arrays                                                | 2016-12-1
 26     | 350 | Intersection of Two Arrays II                                             | 2016-12-1
 27     | 167 | Two Sum II - Input array is sorted                                        | 2016-12-4
+28     | 226 | Invert Binary Tree                                                        | 2016-12-5
