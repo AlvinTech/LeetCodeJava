@@ -36,3 +36,4 @@ Index  | ID |Title | Time
 28     | 226 | Invert Binary Tree                                                        | 2016-12-5
 29     | 383 | Ransom Note                                                               | 2016-12-6
 30     | 436 | Find Right Interval                                                       | 2016-12-7
+31     | 329 | Longest Increasing Path in a Matrix                                       | 2016-12-9
