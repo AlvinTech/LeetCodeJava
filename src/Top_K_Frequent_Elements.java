@@ -18,12 +18,10 @@ public class Top_K_Frequent_Elements {
     public class Node implements Comparable<Node> {
         public int value;
         public int key;
-
         public Node(Integer key, int value) {
             this.value = value;
             this.key = key;
         }
-
         @Override public int compareTo(Node o) {
             if (this.key > o.key) {
                 return -1;
@@ -37,7 +35,6 @@ public class Top_K_Frequent_Elements {
 
         }
     }
-
     public List<Integer> topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
@@ -49,7 +46,6 @@ public class Top_K_Frequent_Elements {
                 map.put(value, 1);
             }
         }
-
         List<Node> nodes = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
         for (int i : map.keySet()) {
@@ -59,7 +55,6 @@ public class Top_K_Frequent_Elements {
         for (int i = 0; i < k; i++) {
             list.add(nodes.get(i).value);
         }
-
         return list;
     }
 
