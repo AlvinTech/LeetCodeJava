@@ -43,3 +43,5 @@ Index  | ID |Title | Time
 35     | 406 | Queue Reconstruction by Height                                            | 2016-12-19
 36     | 461 | Hamming Distance                                                          | 2016-12-20
 37     | 448 | Find All Numbers Disappeared in an Array                                  | 2016-12-21
+38     | 371 | Sum of Two Integers                                                       | 2016-12-22
+39     | 404 | Sum of Left Leaves                                                        | 2016-12-22
