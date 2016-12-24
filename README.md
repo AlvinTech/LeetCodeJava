@@ -46,3 +46,4 @@ Index  | ID |Title | Time
 38     | 371 | Sum of Two Integers                                                       | 2016-12-22
 39     | 404 | Sum of Left Leaves                                                        | 2016-12-22
 40     | 409 | Longest Palindrome                                                        | 2016-12-23
+41     | 401 | Binary Watch                                                              | 2016-12-24  Christmas Eve
