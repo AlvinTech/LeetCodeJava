@@ -47,4 +47,5 @@ Index  | ID |Title | Time
 39     | 404 | Sum of Left Leaves                                                        | 2016-12-22
 40     | 409 | Longest Palindrome                                                        | 2016-12-23
 41     | 401 | Binary Watch                                                              | 2016-12-24  Christmas Eve
-42     | 260 | Single Number III                                                         | 2016-12-24  Merry Christmas
+42     | 260 | Single Number III                                                         | 2016-12-25  Merry Christmas
+43     | 462 | Minimum Moves to Equal Array Elements II                                  | 2016-12-27  
